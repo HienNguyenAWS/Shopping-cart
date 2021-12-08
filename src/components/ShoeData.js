@@ -9,23 +9,23 @@ import ShoeSix from '../img/shoe6.png';
 export default [
     {
         cardImage: ShoeOne,
-        cardPrice: 100
+        cardPrice: 199
     },
     {
         cardImage: ShoeTwo,
-        cardPrice: 200
+        cardPrice: 299
     },
     {
         cardImage: ShoeThree,
-        cardPrice: 300
+        cardPrice: 399
     },
     {
         cardImage: ShoeFour,
-        cardPrice: 400
+        cardPrice: 499
     },
     {
         cardImage: ShoeFive,
-        cardPrice: 500
+        cardPrice: 599
     },
     {
         cardImage: ShoeSix,

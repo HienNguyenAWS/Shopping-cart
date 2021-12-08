@@ -52,7 +52,7 @@ const Hero = () => {
                 hiddenMenu={hiddenMenu} 
                 setHiddenMenu={setHiddenMenu}
                 itemCount={itemCount}
-                />
+            />
             <Container>
                 <CardContainer updateCart={updateCart} />
                 <ShoppingCartContainer 
